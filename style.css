@@ -13,17 +13,17 @@ img{
   height:200px;
 }
 .Container{
-  Width:800px
+  Width:1000px
 }
 .right{
   float: right;
-  width:50px
+  width:500px;
 
 }
 
 
-div{
-
-
-
+.left{
+  width:500px;
+  float: left;
+    
 }
