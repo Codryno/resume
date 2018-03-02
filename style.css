@@ -7,23 +7,30 @@ body {
 .Writing{
   font-family: cursive;
 }
+.Ex{
+  font-size: 20
+  font-family: cursive;
+}
 img{
 
   width:200px;
   height:200px;
 }
 .Container{
-  Width:1000px
+  Width:800px
 }
 .right{
   float: right;
-  width:500px;
+  width:50px
 
+}
+.W{
+  font-style: italic;
 }
 
 
-.left{
-  width:500px;
-  float: left;
-    
+div{
+
+
+
 }
